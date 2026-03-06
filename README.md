@@ -99,23 +99,13 @@ Place screenshots in screenshots/ and use a consistent numbering scheme:
 
 03-nginx-status.png
 
-04-cloudwatch-agent-config.png
-
 05-log-groups.png
-
-06-access-log-events.png
-
-07-error-log-events.png
 
 08-dashboard.png
 
 09-alarm-config.png
 
-10-alarm-in-alarm.png
-
 11-sns-email.png
-
-12-alarm-back-to-ok.png
 
 Teardown / Cost Control
 
